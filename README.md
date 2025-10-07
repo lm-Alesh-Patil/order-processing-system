@@ -2,7 +2,7 @@
 Order Processing System (with RabbitMQ)
 
 # Project Structure
-go-rabbitmq-orders/
+order-processing-system/
 ├── cmd/
 │   ├── api/
 │   │   └── main.go          # Starts REST API (producer)
